@@ -1,0 +1,4 @@
+Database use name --- admin
+password ---Admin@123
+
+Security key ---hgwf78ihw89
